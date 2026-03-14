@@ -1,6 +1,6 @@
 
 
-# Module 4: Relational Model Design – Knowledge Log
+# Module 4: Relational Model Design 
 
 ## 1. Objective
 
